@@ -7,9 +7,11 @@ Major Action Items: Digitization of archival items, Handling Omeka:  items, .csv
 Notes: 
   1. Discuss Task-board poster:  specifically Omeka workflow
   2. Work with TJ and special collections to digitize. If they aren't able to assist then we will go forward with photo digitization
-    a. Where does the Library want the digital items to end up?
+    a. Where do they want the digital items to end up?
   3. Paul and Michael will create CSV file of metadata, perhaps using Google Sheets for export (will be compatible with Omeka's CSV import). Will look into ways for automation and also reach out to Lisa in special collection to see if their team can export their item information as CSV.  
     a. Once we have data, perhaps they can begin to work on visualizations (maybe using Tableau and/or Gephi) 
+    b. Can we use exportable metadata from SC on the collection we are going to use to begin creating visualizations and the site before the digitized items are ready for upload?
   4. Ashley will plan Omeka workshop for next week Thursday, Friday.  
-  5. Check in and update re: slack, trello, T/TH meetings, 
-  6. 
+  5. Check in and update re: slack, trello, T/TH meetings
+  6. Documentation and outward facing site for clinics
+  
