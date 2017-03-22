@@ -1,0 +1,11 @@
+Meeting Date: 21/3/2017
+Recorder: Paul
+DH Clinic Members Present: Paul, Eddie, Eduardo, Ellis
+Summary: Going over database framework and item collection that has been done
+Notes:
+	1. Discussed the work that Michael has done in terms of setting up a database in SQL Server
+	2. Discussed the digitalisation of items done by both Michael and Ramya.
+	3. Paul will discuss with Michael on figuring out how to import the .mdl database into Omeka (probably via CSV conversion and then CSV import plugin into Omeka)
+	4. Discussed moving to the stage of figuring out how to structure the main Omeka site now, and possible ways to include the Make-a-thon in terms of extending the site.
+	5. Discussed how the site should have a bare minimum of one exhibit with the amount of items we have digitised (and will digitise) so far.
+	6. Make sure to ask Michael and Ramya to update the readme documentation on GitHub about what they've accomplished so far.
