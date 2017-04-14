@@ -1,0 +1,12 @@
+Meeting Date: 11/04/2017
+
+Recorder: Paul
+Members present: Ellis, Eddie, Paul, Michael, Swati, Eduardo
+
+Summary: Want to see how to can get more analysis insights from the current data we have and on the narratives
+
+Notes:
+	Try to add more information/variables/meta data tags to the current dataset.
+	Can try to digitise detailed articles for each persons' narratives and then do individual analyses to see connections.
+	Trying to process articles via OCR doesn't take as long; possible to do OCR for all articles.
+	Discuss that for Make-a-thon, we can teach people how to use the tools that are used to make the Omeka website (e.g., Voyant Tools) during the 5th of May.
